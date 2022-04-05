@@ -1,16 +1,5 @@
-# infinite_scroll
+# Infinite Scroll
 
-A new Flutter project.
+A university project, it's an App which implements a simple scrolling of [albuns](https://jsonplaceholder.typicode.com/albums) for my Development on Mobile Device's class.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Here is a video](https://youtu.be/quOi0KNAGQA) of me explaining it
